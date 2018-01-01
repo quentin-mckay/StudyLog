@@ -1,2 +1,0 @@
-# StudyLog
-daily log
