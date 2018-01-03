@@ -14,4 +14,5 @@
 
 # Jan 3
 
-- started Net Ninja Vue Tutorial Playlist
+- started Net Ninja Vue Tutorial Playlist (1-5)
+- played with embedding CodePen pens in wordpress posts
