@@ -23,4 +23,4 @@
 
 # Jan 5
 
-- Net Ninja Vue tutorials 10 - 15
+- Net Ninja Vue tutorials 10 - 15 (Punching Bag Game + Intro to Componenents!)
