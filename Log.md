@@ -16,3 +16,11 @@
 
 - started Net Ninja Vue Tutorial Playlist (1-5)
 - played with embedding CodePen pens in wordpress posts
+
+# Jan 4
+
+- Net Ninja Vue tutorials 6 - 9
+
+# Jan 5
+
+- Net Ninja Vue tutorials 10 - 15
