@@ -24,3 +24,14 @@
 # Jan 5
 
 - Net Ninja Vue tutorials 10 - 15 (Punching Bag Game + Intro to Componenents!)
+
+# Jan 6
+
+- Net Ninja Vue tutorials 16 - 19 (vue-cli + files + nesting components)
+
+# Jan 7
+
+# Jan 8
+
+- Net Ninja Vue tutorials 25 - 28 (Event Bus, Lifecycle Hooks, Slots, Dynamic Components)
+- played with making logo for EA2 using free online logo apps (Canva, Logomakr) and online vector art
