@@ -35,3 +35,9 @@
 
 - Net Ninja Vue tutorials 25 - 28 (Event Bus, Lifecycle Hooks, Slots, Dynamic Components)
 - played with making logo for EA2 using free online logo apps (Canva, Logomakr) and online vector art
+
+# Jan 9
+
+- looked at Net Ninja Git Branching tutorial (he uses branches to save Lesson-1, Lesson-2, etc)
+- learned about branching 
+
