@@ -41,3 +41,7 @@
 - looked at Net Ninja Git Branching tutorial (he uses branches to save Lesson-1, Lesson-2, etc)
 - learned about branching 
 
+# Jan 10-13
+
+- finished Net Ninja Vue playlist (stunning series)
+- copied freeCodeCamp tribute page the other day
