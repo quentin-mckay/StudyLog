@@ -45,3 +45,8 @@
 
 - finished Net Ninja Vue playlist (stunning series)
 - copied freeCodeCamp tribute page the other day
+
+# Jan 14
+
+- skimmed through freeCodeCamp 'Basic Javascript' and 'Object Oriented and Functional Programming'
+
