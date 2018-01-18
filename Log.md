@@ -50,3 +50,17 @@
 
 - skimmed through freeCodeCamp 'Basic Javascript' and 'Object Oriented and Functional Programming'
 
+# Jan 17
+
+- got Net Ninja Vue tutorial Blog App to work on GitHub pages as project
+  - using webpack-simple template (it's what Net Ninja used)
+  - `$ npm run build`
+  - change /dist to /docs
+  - copy over index.html into /docs
+  - remove '/' from front of src="/bundle.js"
+  - also changed router mode from 'history' back to default hash (didn't work at first then i checked later and it was working. wtf?)
+    
+
+# Jan 18
+
+- watch Traversy Webpack crash course
