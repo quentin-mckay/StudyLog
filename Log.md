@@ -64,3 +64,4 @@
 # Jan 18
 
 - watch Traversy Webpack crash course
+- updated Node from 6.10.2 to 8.9.4 (just downloaded the .msi and installed)
