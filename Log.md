@@ -66,3 +66,10 @@
 - watch Traversy Webpack crash course
 - updated Node from 6.10.2 to 8.9.4 (just downloaded the .msi and installed)
 - freeCodeCamp Basic Algorithm testPalindrome (Regex)
+
+# Jan 19
+
+- Traversy CSS Grid Responsive Website Mobile-First tutorial
+  - a strange one b/c uses Grid in a way I haven't seen anywhere before (adding `display: grid` to each section via class `.grid`)
+  - also uses Flex with some fixed widths (seemingly effective but not recommended in the CodeTech talk by Grid pioneer Rachel Andrews)
+- getting comfortable with the workflow for project (code -> GitHub Desktop Client -> create branches + merge -> push to GitHub -> create GitHub Project Page)
