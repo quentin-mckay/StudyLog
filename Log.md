@@ -73,3 +73,17 @@
   - a strange one b/c uses Grid in a way I haven't seen anywhere before (adding `display: grid` to each section via class `.grid`)
   - also uses Flex with some fixed widths (seemingly effective but not recommended in the CodeTech talk by Grid pioneer Rachel Andrews)
 - getting comfortable with the workflow for project (code -> GitHub Desktop Client -> create branches + merge -> push to GitHub -> create GitHub Project Page)
+
+# Jan 20 - 22
+
+- solidifying my workflow of putting past project onto quentinmckay.com
+
+# Jan 23
+
+- re-wrote Color Game from Colt Steele Web Developer Bootcamp
+  - might be interesting to redo it using Vue
+  
+# Jan 24
+
+- put Color Game on quentinmckay.com
+- 
