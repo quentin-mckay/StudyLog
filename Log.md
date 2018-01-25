@@ -86,4 +86,8 @@
 # Jan 24
 
 - put Color Game on quentinmckay.com
+- went through, took notes, and put Bootcamp To-Do List up as well
+
+# Jan 25
+
 - 
