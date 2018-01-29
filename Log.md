@@ -88,6 +88,7 @@
 - put Color Game on quentinmckay.com
 - went through, took notes, and put Bootcamp To-Do List up as well
 
-# Jan 25
+# Jan 25 - 29
 
-- 
+- rewatched / took notes on Simple Express app and Heroku deployment
+- put Yelpcamp on my site
