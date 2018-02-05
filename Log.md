@@ -92,3 +92,9 @@
 
 - rewatched / took notes on Simple Express app and Heroku deployment
 - put Yelpcamp on my site
+
+# Jan 30 - Feb 5
+
+- started Colt Steele Advanced Web Developer Bootcamp
+  - so far finished first section on CSS Animation (Transforms, Transitions, Keyframes)
+    - projects: push button, rising/setting sun
