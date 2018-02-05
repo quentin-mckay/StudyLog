@@ -98,3 +98,5 @@
 - started Colt Steele Advanced Web Developer Bootcamp
   - so far finished first section on CSS Animation (Transforms, Transitions, Keyframes)
     - projects: push button, rising/setting sun
+- watched video on Functional Programming (What the fuck is a monad?)
+- watched video on mysql injections
