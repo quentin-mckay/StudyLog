@@ -100,3 +100,8 @@
     - projects: push button, rising/setting sun
 - watched video on Functional Programming (What the fuck is a monad?)
 - watched video on mysql injections
+
+# Feb 6 - Feb 14
+- followed Advanced WebDevBootcamp Flexbox, Async Foundations, and Fetch sections
+  - Fetch Random User example
+- started Vue JS 2 - The Complete Guide (Maximillian Schwarzmuller)
