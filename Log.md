@@ -105,3 +105,6 @@
 - followed Advanced WebDevBootcamp Flexbox, Async Foundations, and Fetch sections
   - Fetch Random User example
 - started Vue JS 2 - The Complete Guide (Maximillian Schwarzmuller)
+
+# Feb 17
+- wrote Monster Slayer in Vue
