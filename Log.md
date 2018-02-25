@@ -108,3 +108,14 @@
 
 # Feb 17
 - wrote Monster Slayer in Vue
+
+# Feb 24
+- switched to VS Code over the weekend
+  - main benefits
+    1. integrated terminal (the terminal plugin in Atom was always a little bit janky)
+    2. integrated linting (still not entirely sure what Intellisense is)
+    3. integrated debugger
+    4. reason I switched to Atom in the first place is because I liked the "look" 
+        but I just downloaded a really popular theme to make Code look like Atom
+- continuing Vue: The Complete Guide
+  - coded Wonderful Quotes (second project of the course)
