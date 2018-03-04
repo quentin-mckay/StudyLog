@@ -120,12 +120,21 @@
 - continuing Vue: The Complete Guide
   - coded Wonderful Quotes (second project of the course)
 
-
+# Feb 25 - March 3
+- put Monster Slayer and Wonderful Quotes on website
+- Vue course
+  - Section 11: Forms and Inputs
+  - Section 12: Custom Directives
+  - Section 13: Filters and Mixins
+  - Section 14: Animations and Transitions
+  - built the Super Quiz (with the flip animation)
 
 # March 4
-- wanted to add flash-red-when-wrong animation to Super Quiz
-  - researched how to re-trigger a css animation. Turns out there's no proper built-in way to do it.  The seeming actual  solution is to remove the triggering class from the element when the animation is finished.
-
+- wanted to add flash-red-when-wrong animation to Super Quiz (rather than ugly alert() like Max does)
+  - researched how to re-trigger a css animation
+    - 1st solution is to remove the triggering class via `setTimeout()` then re-add to `element.classList` (problem is duration is coded in both CSS and javascript)
+    - 2nd solution is Web Animation API. Very cool! (pretty new and not implemented in all browsers yet)
+  - going to go implement it tonight
 
 
 
