@@ -119,3 +119,19 @@
         but I just downloaded a really popular theme to make Code look like Atom
 - continuing Vue: The Complete Guide
   - coded Wonderful Quotes (second project of the course)
+
+
+
+# March 4
+- wanted to add flash-red-when-wrong animation to Super Quiz
+  - researched how to re-trigger a css animation. Turns out there's no proper built-in way to do it.  The seeming actual  solution is to remove the triggering class from the element when the animation is finished.
+
+
+
+
+
+
+
+
+
+
