@@ -136,7 +136,12 @@
     - 2nd solution is Web Animation API. Very cool! (pretty new and not implemented in all browsers yet)
   - going to go implement it tonight
 
+# March 12
+- "finished" the Super Quiz (haven't made a quentinmckay.com entry yet)
 
+- finished vue-router and vuex sections
+  - vuex is confusing (not entirely sure what benefits it provides other than allowing access to all the data from any component. All the getters/mutations/actions seem like an unnecessary amount of boilerplate). hopefully this gets cleared up during the Final Project in the next section.
+  
 
 
 
