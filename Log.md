@@ -141,8 +141,13 @@
 
 - finished vue-router and vuex sections
   - vuex is confusing (not entirely sure what benefits it provides other than allowing access to all the data from any component. All the getters/mutations/actions seem like an unnecessary amount of boilerplate). hopefully this gets cleared up during the Final Project in the next section.
-  
 
+# March 14
+- wrote Stock Trader (final project of Vue course) project setup + basic css/layout + vue-router
+- watched NetNinja Vuex tutorial playlist
+  
+# March 15
+- added Vuex + Portfolio to Stock Trader
 
 
 
