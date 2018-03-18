@@ -149,8 +149,11 @@
 # March 15
 - added Vuex + Portfolio to Stock Trader
 
+# March 16
+- Wes Bos Javascript 30 - 1. Drum Kit
 
-
-
-
+# March 18
+- implemented 'Save & Load' button on Stock Trader
+  - researched CSS + JS click to open dropdown (+ close when clicked away)
+  - hooked up to Firebase (no authentication)
 
