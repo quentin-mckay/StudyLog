@@ -157,3 +157,7 @@
   - researched CSS + JS click to open dropdown (+ close when clicked away)
   - hooked up to Firebase (no authentication)
 
+# March 19 - 25
+- finished Stock Trader
+- Javascript 30 2. Clock, 3. CSS Variables (Image Blur), 4. Array Cardio, 5. Flexbox Image Gallery
+
