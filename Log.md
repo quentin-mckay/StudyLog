@@ -161,3 +161,15 @@
 - finished Stock Trader
 - Javascript 30 2. Clock, 3. CSS Variables (Image Blur), 4. Array Cardio, 5. Flexbox Image Gallery
 
+# March 26
+- Javascript 30 6. Array Cardio
+
+# March 28
+- bought + started Colt Steele Python 3 Bootcamp
+- started properly Advanced CSS and Sass
+- started EAA logo (still need to play with colors)
+
+# March 29
+- Python Bootcamp (basics)
+  - python 3 installation on Mac/Windows
+  - VSCode python setup
