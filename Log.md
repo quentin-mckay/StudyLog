@@ -173,3 +173,9 @@
 - Python Bootcamp (basics)
   - python 3 installation on Mac/Windows
   - VSCode python setup
+
+
+# April 9
+- Javascript30 6. Type Ahead (Fetch + Regex)
+- started WpCrafter 4hr build ecommerce website
+  - researched hosting
