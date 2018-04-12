@@ -174,6 +174,8 @@
   - python 3 installation on Mac/Windows
   - VSCode python setup
 
+# April 8
+- watched Traversy Do We Still Need jQuery? 
 
 # April 9
 - Javascript30 6. Type Ahead (Fetch + Regex)
