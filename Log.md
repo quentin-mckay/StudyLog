@@ -179,3 +179,13 @@
 - Javascript30 6. Type Ahead (Fetch + Regex)
 - started WpCrafter 4hr build ecommerce website
   - researched hosting
+
+# April 11
+- Advanced CSS and Sass
+  - convert Natours (so-far) to Sass
+  - converting to 7-1 architecture (splitting into partials)
+- watched sped up WpCrafter Ecommerce video
+
+# April 12 (Thursday)
+- Advanced Sass Create Custom Float Grid
+- watched Ecommerce video
