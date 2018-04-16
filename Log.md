@@ -191,3 +191,7 @@
 # April 12 (Thursday)
 - Advanced Sass Create Custom Float Grid
 - watched Ecommerce video
+
+# April 15
+- Features Section of Natours Project (Advanced CSS and Sass)
+- watched video 1 of FunFunFunction "Object Creation in Javascript" series
