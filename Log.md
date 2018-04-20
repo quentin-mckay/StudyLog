@@ -195,3 +195,18 @@
 # April 15
 - Features Section of Natours Project (Advanced CSS and Sass)
 - watched video 1 of FunFunFunction "Object Creation in Javascript" series
+
+# April 20
+- Python Bootcamp Lists
+- FFFunction video 6
+
+
+# April 21
+- Python Bootcamp Lists(slices) and List Comprehensions
+- finished series FunFunFunction "Object Creation in Javascript" series
+  - has been a routine to go out for coffee/watch video
+- watch Vue video on scalable css techniques
+  - really just mentioned BEM and <style scoped>  (also kind of mentioned CSS modules?)
+- Javascript30 8. Canvas Paint
+- downloaded Elementor Pro 2 release with Themer! + played with creating Header + dynamic "single" blog post
+
