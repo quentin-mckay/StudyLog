@@ -200,7 +200,6 @@
 - Python Bootcamp Lists
 - FFFunction video 6
 
-
 # April 21
 - Python Bootcamp Lists(slices) and List Comprehensions
 - finished series FunFunFunction "Object Creation in Javascript" series
@@ -210,3 +209,8 @@
 - Javascript30 8. Canvas Paint
 - downloaded Elementor Pro 2 release with Themer! + played with creating Header + dynamic "single" blog post
 
+# April 22
+- Python Bootcamp Dictionaries
+- Advanced CSS + SASS finish Natours Tours Section (flip cards)
+- watched FunFunFunction Iterators video
+- Javscript30 10. Checkbox Holding Shift
