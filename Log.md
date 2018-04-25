@@ -214,3 +214,8 @@
 - Advanced CSS + SASS finish Natours Tours Section (flip cards)
 - watched FunFunFunction Iterators video
 - Javscript30 10. Checkbox Holding Shift
+
+# April 25
+- Python Bootcamp Tuples and Sets
+- watch wordpress Astra Hooks and Custom Headers video
+
