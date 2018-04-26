@@ -219,3 +219,8 @@
 - Python Bootcamp Tuples and Sets
 - watch wordpress Astra Hooks and Custom Headers video
 
+# April 26
+- Python Bootcamp Functions
+- Advanced WebDev Bootcamp create Express/Mongo/JSON Api
+  - getting ready to follow that Vue music app code-along
+- playing with Elementor 2 Dynamic Content
