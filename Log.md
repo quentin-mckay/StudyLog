@@ -224,3 +224,35 @@
 - Advanced WebDev Bootcamp create Express/Mongo/JSON Api
   - getting ready to follow that Vue music app code-along
 - playing with Elementor 2 Dynamic Content
+
+# April 28
+- Python Bootcamp Function Exercises
+- watch Coding Tech Zen of Python talk
+- AdvWebDev jQuery SPA
+  - interesting jQuery solution of storing the data id (from mongo backend) on each <li> element as it's created
+
+# April 29
+- Python Bootcamp Function Exercises
+- converted AdvWebDev jQuery TodoList SPA to use a Vue front-end (using Fetch API)
+  - frustrated by not being able to get initial fetch requests working
+    - lack of understanding of what VSCode Live-Server extension is doing
+    - partial solution was adding header option to fetch post and put request
+    - final solution was to just move the Vue code into the same project folder as Express API
+  - deployed to Heroku + mLab
+    - couldn't get local environment variables to work (?)
+- put 3 projects onto quentinmckay.com
+  - Canvas Paint (js30) + notes
+  - Checkbox Select (js30) + notes
+  - Vue SPA TodoList converted from jQuery
+  - added CSS to posts Section to fix image widths
+    - width: 100% !important;  // !important to override the inline-styles elementor puts on the images
+    - height: auto;            // auto to keep the correct aspect-ratio (not sure where/how i remembered this)(go me!)
+
+# April 30 (Monday - last day of school holidays)
+- Python Bootcamp Function exercises
+- Part 1 of freeCodeCamp youtube series Full Stack Web App using Vue + Express
+  - setup the project
+    - client: vue init webpack (said yes to all options but I disabled eslint(too strict)) (then npm install axios))
+    - server: express morgan cors (eslint but that's pissing me off)
+  - got simple connection happening between Register component and app.post('/register',...) endpoint
+    - good explanation of 2-way data binding with v-model
