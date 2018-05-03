@@ -256,3 +256,14 @@
     - server: express morgan cors (eslint but that's pissing me off)
   - got simple connection happening between Register component and app.post('/register',...) endpoint
     - good explanation of 2-way data binding with v-model
+
+# May 3
+- Python Bootcamp Functions Part2
+  - ```*args``` and ```**kwargs```
+- 2nd half of 2nd video TabTracker
+  - Joi backend registration info validation and error handling
+  - Vuetify intro and registration component markup
+- coffee + beginners guide to webpack
+- reviewed traversy webpack crash course
+- got webpack raw-loader working (for reading .py and .js files)
+  - first step toward Python Bootcamp py/js rosetta site !
