@@ -267,3 +267,12 @@
 - reviewed traversy webpack crash course
 - got webpack raw-loader working (for reading .py and .js files)
   - first step toward Python Bootcamp py/js rosetta site !
+
+# May 6
+- Python Bootcamp `**kwargs` imperfect translation to js + started Lambdas
+- coffee + FunFunFunction async/await
+- 25 mins of Video 3 of TabTracker
+  - continuing use/exploration of Vuetify for inputs and buttons (still not sold on Material Design)
+  - added Header, Login components
+  - revisited use of <router-link> (well actually <v-btn to="register">)
+  - + "manual" navigation with this.$router.push({name: 'register'})
