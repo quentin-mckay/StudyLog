@@ -276,3 +276,7 @@
   - added Header, Login components
   - revisited use of <router-link> (well actually <v-btn to="register">)
   - + "manual" navigation with this.$router.push({name: 'register'})
+
+# May 7
+- Python Bootcamp Built-In Functions
+- creating backend Login functionality using JWT (json web tokens) and started with bcrypt-nodejs
