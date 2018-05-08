@@ -104,3 +104,6 @@
 # May 7
 - Python Bootcamp Built-In Functions
 - creating backend Login functionality using JWT (json web tokens) and started with bcrypt-nodejs
+- webpack require.context
+  - figured out how to import the directory of .js and .py exercise files !!
+- started Net Ninja Regex playlist (useful for webpack config files)
