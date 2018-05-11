@@ -107,3 +107,9 @@
 - webpack require.context
   - figured out how to import the directory of .js and .py exercise files !!
 - started Net Ninja Regex playlist (useful for webpack config files)
+
+# May 10
+- Python Bootcamp Built-In Functions
+- sort of "figured out" how to do Net Ninja Regex Form in Vue (not as clean as I would have liked)
+- Web Audio API exploration following article on systems music
+  - made a version of Steve Reich's phase "It's Gonna Rain"
