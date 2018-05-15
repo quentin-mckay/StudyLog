@@ -113,3 +113,14 @@
 - sort of "figured out" how to do Net Ninja Regex Form in Vue (not as clean as I would have liked)
 - Web Audio API exploration following article on systems music
   - made a version of Steve Reich's phase "It's Gonna Rain"
+
+# May 12
+- Web Audio API exploration following article on systems music
+  - made a version of Brian Eno's "Music for Airports"
+  
+# May 13 (Sunday)
+- started 11. Custom Video Player
+  
+# May 14
+- Python Bootcamp Modules
+- finished Javascript30 11. Custom HTM5 Video Player
