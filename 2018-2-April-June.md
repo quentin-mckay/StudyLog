@@ -117,10 +117,16 @@
 # May 12
 - Web Audio API exploration following article on systems music
   - made a version of Brian Eno's "Music for Airports"
-  
+
 # May 13 (Sunday)
 - started 11. Custom Video Player
-  
+
 # May 14
 - Python Bootcamp Modules
 - finished Javascript30 11. Custom HTM5 Video Player
+
+# May 16
+- watched CSS-Tricks screencast with Sarah Drasner + Chris Coyier Intro to Vue
+
+# May 17
+- Advanced CSS + Sass Stories Section 1st half
