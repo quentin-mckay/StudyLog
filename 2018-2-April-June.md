@@ -131,6 +131,10 @@
 # May 17
 - Advanced CSS + Sass Stories Section 1st part (basic + shape-outside)
 
+# May 20
+- Javascript 30 12. Konami Code
+  - wierd project 5 min long but unoptimized unexplained non-vanilla code (made it better + learned stuff from the comments)
+
 # May 21
 - Python Bootcamp started HTTP section
 - Advanced CSS + Sass Stories Section 2nd (hover effect, text fade + image zoom / filter) + 3rd part (video background)
