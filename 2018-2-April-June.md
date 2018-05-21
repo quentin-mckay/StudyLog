@@ -131,15 +131,15 @@
 # May 17
 - Advanced CSS + Sass Stories Section 1st part (basic + shape-outside)
 
-# May 20
+# May 19
 - Javascript 30 12. Konami Code
   - wierd project 5 min long but unoptimized unexplained non-vanilla code (made it better + learned stuff from the comments)
 
-# May 21
+# May 20
 - Python Bootcamp started HTTP section
 - Advanced CSS + Sass Stories Section 2nd (hover effect, text fade + image zoom / filter) + 3rd part (video background)
 
-# May 22
+# May 21
 - Python Bootcamp finished HTTP section
   - wrote the javascript translation of using python "requests" package to retrieve json data from an API 
     - made 4 versions (request, node-fetch, fetch, axios)
