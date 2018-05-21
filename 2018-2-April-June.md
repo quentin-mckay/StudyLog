@@ -129,4 +129,16 @@
 - watched CSS-Tricks screencast with Sarah Drasner + Chris Coyier Intro to Vue
 
 # May 17
-- Advanced CSS + Sass Stories Section 1st half
+- Advanced CSS + Sass Stories Section 1st part (basic + shape-outside)
+
+# May 21
+- Python Bootcamp started HTTP section
+- Advanced CSS + Sass Stories Section 2nd (hover effect, text fade + image zoom / filter) + 3rd part (video background)
+
+# May 22
+- Python Bootcamp finished HTTP section
+  - wrote the javascript translation of using python "requests" package to retrieve json data from an API 
+    - made 4 versions (request, node-fetch, fetch, axios)
+  - wrote the Dad Joke 3000 project in python and in node
+    - python version used packages [pyfiglet, termcolor, requests]
+    - node version used packages [figlet, chalk, lodash, axios]
