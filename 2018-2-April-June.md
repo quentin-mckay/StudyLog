@@ -149,3 +149,10 @@
     
 # May 23
 - Python Bootcamp OOP Introduction
+
+# May 31
+- Advanced CSS and Sass started Natours Contact Section
+- watched Net Ninja OOP in Javascript playlist this week
+
+# June 2
+- Python Bootcamp OOP Deck of Cards Exercise
