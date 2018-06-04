@@ -156,3 +156,7 @@
 
 # June 2
 - Python Bootcamp OOP Deck of Cards Exercise
+
+# June 4
+- Python Bootcamp OOP Part 2 Inheritance
+- DevTips (FFFunction) vid on node.js basics (baaasic fs.readFile usage)
