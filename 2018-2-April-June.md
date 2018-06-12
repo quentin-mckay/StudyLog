@@ -160,3 +160,11 @@
 # June 4
 - Python Bootcamp OOP Part 2 Inheritance
 - DevTips (FFFunction) vid on node.js basics (baaasic fs.readFile usage)
+
+# June 10
+- completed most of Calc-vue-lator (vue calculator based on freeCodeCamp front-end project example)
+
+# June 11
+- finished Calc-vue-lator 
+  - added keyboard control button flashes
+  - put it on Codepen
