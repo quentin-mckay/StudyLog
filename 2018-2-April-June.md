@@ -168,3 +168,11 @@
 - finished Calc-vue-lator 
   - added keyboard control button flashes
   - put it on Codepen
+
+# June 13
+- freeCodeCamp Basic Algorithms conversion to Python
+
+# June 14
+- continued freeCodeCamp Basic Algorithms conversion to Python
+- watched more Laracast Vue Playlist
+- watch Wes Bos JSConf Async/Await talk
