@@ -176,3 +176,7 @@
 - continued freeCodeCamp Basic Algorithms conversion to Python
 - watched more Laracast Vue Playlist
 - watch Wes Bos JSConf Async/Await talk
+
+# June 20
+- freeCodeCamp Intermediate Algorithm Spinal-Case regex
+- Laracast Vue Object-Oriented-Form video 1 + 2
