@@ -180,3 +180,15 @@
 # June 20
 - freeCodeCamp Intermediate Algorithm Spinal-Case regex
 - Laracast Vue Object-Oriented-Form video 1 + 2
+
+# June 25
+- codewars katas
+
+# June 26
+- codewars katas
+- watched Traversy Callbacks/Promises/Async-Await video
+- Coding with CJ full stack Message Board w/ vue express mongo 
+
+# June 27
+- codewars katas
+- Coding with CJ full stack Message Board w/ vue express mongo 
